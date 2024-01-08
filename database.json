@@ -1,53 +1,33 @@
 {
   "jokes": [
     {
-      "id": 1,
-      "text": "I went to buy some camo pants but couldn’t find any.",
-      "told": false
-    },
-    {
       "id": 2,
-      "text": "I always find elevator jokes to be uplifting.",
-      "told": false
+      "text": "I told my wife she should embrace her mistakes. She gave me a hug.",
+      "told": true
     },
     {
       "id": 3,
-      "text": "Most people are shocked when they find out how bad I am as an electrician.",
+      "text": "I used to play piano by ear, but now I use my hands and fingers.",
       "told": true
     },
     {
       "id": 4,
-      "text": "I've had a perfectly wonderful evening, but this wasn’t it.",
-      "told": false
-    },
-    {
-      "id": 5,
-      "text": "I failed math so many times at school, I can’t even count",
+      "text": "I only know 25 letters of the alphabet. I don't know y.",
       "told": true
     },
     {
+      "id": 5,
+      "text": "I asked the librarian if the library had any books on paranoia. She whispered, \"They're right behind you.\"",
+      "told": false
+    },
+    {
       "id": 6,
-      "text": "Why don't scientists trust atoms? Because they make up everything.",
+      "text": "Why don't skeletons fight each other? They don't have the guts.",
       "told": false
     },
     {
       "id": 7,
-      "text": "I told my computer I needed a break, and now it won't stop sending me vacation ads.",
-      "told": false
-    },
-    {
-      "id": 8,
-      "text": "Parallel lines have so much in common. It's a shame they'll never meet.",
-      "told": false
-    },
-    {
-      "id": 9,
-      "text": "I used to play piano by ear, but now I use my hands and fingers.",
-      "told": false
-    },
-    {
-      "id": 10,
-      "text": "I only know 25 letters of the alphabet. I don't know y.",
+      "text": "I only know how to do the Macarena one way. I can't do it the other way.",
       "told": false
     }
   ]
